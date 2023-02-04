@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.asosiy{
+    background-image: url('./image/rasm4.jpg');
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.asosiy1{
+    background-color: rgba(0, 0, 0, 0.808);
+    height: 100vh;
+}
+.iconka i{
+    color: white;
+    margin: 0 15px;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    margin: 0 10px;
+}
+.yozuvTepa{
+    margin-top: 90px;
+}
+.frame2Col img{
+    height: 350px;
+}
+.loveP{
+    margin-top: 200px;
+}
+.learningH h2{
+    margin-top: 120px;
+}
+.bookText h2{
+    margin-top: 200px;
+}
+li{
+    font-size: 18px;
+}
+ul a{
+    text-decoration: none;
+    color: wheat;
+}
+.iconka i{
+    margin-left: 20px;
+}
